@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusStopApp</string>
+    <string name="locationName">지역선택</string>
+    <string name="title_activity_google_maps">GoogleMaps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="title_activity_maps3">MapsActivity3</string>
+</resources>
